@@ -9,7 +9,7 @@ Husk, at du ikke må arbejde på din opgave mellem kl. 16:00 og kl. 8:00.
 ## Dag 1
 
 Morgen - Første commit: 09:02 (NextJS installed) | Andet commit: 9:04 (Gitignore updated)
-Eftermiddag - Velkommen side commit: 12:28 (Frontpage has been made)
+Eftermiddag - Velkommen side commit: 12:28 (Frontpage has been made) | Acitivites side commit: 14:20 (Design for activities made) | Footer component commit: 14:57 (Footer has been made)
 
 ## Dag 2
 

@@ -1,8 +1,10 @@
+import Footer from "@/components/Footer";
 import Image from "next/image";
 
 export default function activities() {
   return (
-    <div className="h-screen w-full flex flex-col items-center pt-8 gap-8">
+    <>
+    <div className="min-h-screen w-full flex flex-col items-center pt-8 gap-8 pb-8">
         <h1 className="text-4xl text-white text-start w-full pl-5">Aktiviteter</h1>
         <article>
             <figure className="relative">
@@ -32,5 +34,7 @@ export default function activities() {
             </figure>
         </article>
     </div>
+    <Footer />
+    </>
   );
 }
