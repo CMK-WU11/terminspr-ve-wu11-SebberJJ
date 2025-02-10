@@ -5,7 +5,7 @@ export default function activities() {
   return (
     <>
     <div className="min-h-screen w-full flex flex-col items-center pt-8 gap-8 pb-8">
-        <h1 className="text-4xl text-white text-start w-full pl-5">Aktiviteter</h1>
+        <h1 className="text-white text-start w-full pl-5">Aktiviteter</h1>
         <article>
             <figure className="relative">
                 <Image src="/dancingImage.png" width={375} height={300} alt="Danser i en dansesal" className="rounded-l-[2.5rem] rounded-tr-[2.5rem]" />

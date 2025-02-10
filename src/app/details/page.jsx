@@ -13,7 +13,7 @@ export default function details() {
             </div>
                 <article className="flex flex-col p-6 text-white gap-3">
                     <div>
-                        <h2 className="font-bold text-2xl">Junior Fitness Dance</h2>
+                        <h2 className="font-bold">Junior Fitness Dance</h2>
                         <p>10-12 år</p>
                     </div>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, commodi? Optio illo provident itaque, error nulla suscipit quisquam tempore exercitationem vel eos nobis eum sed reprehenderit culpa dignissimos sunt sint nam. Inventore, delectus? Explicabo voluptatibus, facere quia repellat eligendi, dolorum maiores praesentium voluptate veritatis beatae necessitatibus. Ducimus debitis eaque saepe.</p>
