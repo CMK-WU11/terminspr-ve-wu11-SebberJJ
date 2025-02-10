@@ -8,8 +8,8 @@ Husk, at du ikke må arbejde på din opgave mellem kl. 16:00 og kl. 8:00.
 
 ## Dag 1
 
-Morgen - (tidspunkt)  
-Eftermiddag - (tidspunkt)
+Morgen - Første commit: 09:02 (NextJS installed) | Andet commit: 9:04 (Gitignore updated)
+Eftermiddag - Velkommen side commit: 12:28 (Frontpage has been made)
 
 ## Dag 2
 
