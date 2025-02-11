@@ -26,7 +26,8 @@ Søge side commit: 11:22 (Search page design made plus articles has been made as
 Kalender side commit: 11:45 (Calender design has been made)
 Kalender team overview commit: 12:00 (Calender team overview design has been made)
 
-Eftermiddag - (tidspunkt)
+Eftermiddag -
+Log ind side commit: 12:39 (Login design has been made)
 
 ## Dag 3
 
