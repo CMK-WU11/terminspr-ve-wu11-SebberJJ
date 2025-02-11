@@ -12,7 +12,7 @@ export default function Footer() {
                         <Link href="/"><CiHome size={28} /></Link>
                     </li>
                     <li className="border border-black rounded-full p-2">
-                        <Link href="/"><IoSearchOutline size={28} /></Link>
+                        <Link href="/search"><IoSearchOutline size={28} /></Link>
                     </li>
                     <li className="border border-black rounded-full p-2">
                         <Link href="/"><CiCalendar size={28} /></Link>
