@@ -28,6 +28,7 @@ Kalender team overview commit: 12:00 (Calender team overview design has been mad
 
 Eftermiddag -
 Log ind side commit: 12:39 (Login design has been made)
+Fetch API commit: 15:20 (Fetch API and use the data on the pages)
 
 ## Dag 3
 
