@@ -21,7 +21,9 @@ global changes commit: 15:50 (Adds default font styling for p, h1, h2 and added 
 
 ## Dag 2
 
-Morgen - (tidspunkt)  
+Morgen -
+Søge side commit: 11:22 (Search page design made plus articles has been made as a component)
+
 Eftermiddag - (tidspunkt)
 
 ## Dag 3
