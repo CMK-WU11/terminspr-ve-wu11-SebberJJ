@@ -23,6 +23,7 @@ global changes commit: 15:50 (Adds default font styling for p, h1, h2 and added 
 
 Morgen -
 Søge side commit: 11:22 (Search page design made plus articles has been made as a component)
+Kalender side commit: 11:45 (Calender design has been made)
 
 Eftermiddag - (tidspunkt)
 
