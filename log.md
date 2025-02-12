@@ -33,7 +33,8 @@ Fetch API commit: 15:20 (Fetch API and use the data on the pages)
 ## Dag 3
 
 Morgen - (tidspunkt)  
-Eftermiddag - (tidspunkt)
+Eftermiddag -
+Log ind funktionalitet commit: 12:49 (Login function done - information is saved in cookies)
 
 ## Dag 4
 
