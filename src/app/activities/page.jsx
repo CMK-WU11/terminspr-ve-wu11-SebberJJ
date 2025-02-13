@@ -2,7 +2,7 @@
 
 import Article from "@/components/Article";
 import Footer from "@/components/Footer";
-import getActivities from "@/services/getActivities";
+import { getActivities } from "@/services/getActivities";
 import { useEffect, useState } from "react";
 
 export default function activities() {
@@ -31,6 +31,7 @@ export default function activities() {
               alt={acti.name}
               name={acti.name}
               age={acti.minAge + "-" + acti.maxAge}
+              instructorId={acti.instructorId}
               linkId={acti.id}
             />
           ))
