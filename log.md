@@ -32,15 +32,18 @@ Fetch API commit: 15:20 (Fetch API and use the data on the pages)
 
 ## Dag 3
 
-Morgen - (tidspunkt)  
+Morgen - (tidspunkt)
+
 Eftermiddag -
 Log ind funktionalitet commit: 12:49 (Login function done - information is saved in cookies)
 Velkommen knap css fade in commit: 13:37 (Welcome button fade in design animation done)
 
 ## Dag 4
 
-Morgen - (tidspunkt)  
-Eftermiddag - (tidspunkt)
+Morgen - (tidspunkt)
+
+Eftermiddag -
+Aktivitet knap funktionalitet commit: 12:10 (Activities button has functionallity now)
 
 ## Dag 5
 
