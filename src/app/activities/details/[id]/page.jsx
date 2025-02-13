@@ -5,6 +5,7 @@ import Image from "next/image";
 import getActivity from "@/services/getActivity";
 import { useEffect, useState } from "react";
 import { useParams } from "next/navigation";
+import SubscribeBtn from "@/components/SubscribeBtn";
 
 export default function details() {
   const [activity, setActivity] = useState([]);
@@ -40,9 +41,7 @@ export default function details() {
               )}
 
               <div className="absolute bottom-6 right-8">
-                <button className="rounded-md bg-[#5E2E53] p-3 px-24 shadow-md shadow-[#2e1a29] self-center flex text-white">
-                  Tilmeld
-                </button>
+                <SubscribeBtn minAge={activity.minAge} maxAge={activity.maxAge} instructorId={activity.instructorId} />
               </div>
             </div>
             <article className="flex flex-col p-6 text-white gap-3">
