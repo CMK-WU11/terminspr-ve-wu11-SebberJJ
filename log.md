@@ -44,6 +44,7 @@ Morgen - (tidspunkt)
 
 Eftermiddag -
 Aktivitet knap funktionalitet commit: 12:10 (Activities button has functionallity now)
+Kalender funktionalitet commit: 15:41 (Calendar functionallity begun - not finished)
 
 ## Dag 5
 
