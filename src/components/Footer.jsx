@@ -9,7 +9,7 @@ export default function Footer() {
             <nav>
                 <ul className="flex justify-around">
                     <li className="border border-black rounded-full p-2">
-                        <Link href="/"><CiHome size={28} /></Link>
+                        <Link href="/activities"><CiHome size={28} /></Link>
                     </li>
                     <li className="border border-black rounded-full p-2">
                         <Link href="/search"><IoSearchOutline size={28} /></Link>

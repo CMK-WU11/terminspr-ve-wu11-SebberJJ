@@ -48,5 +48,6 @@ Kalender funktionalitet commit: 15:41 (Calendar functionallity begun - not finis
 
 ## Dag 5
 
-Morgen - (tidspunkt)  
-Eftermiddag - (tidspunkt)
+Morgen - (tidspunkt)
+Eftermiddag -
+Kalender funktionalitet commit: 11:54 (Calender done - functionality moved from CalendarCard to page.jsx - easier to read)
