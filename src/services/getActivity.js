@@ -1,3 +1,5 @@
+"use server"
+
 export default async function getActivity(id) {
     try {
         const response = await fetch(`http://localhost:4000/api/v1/activities/${id}`, {

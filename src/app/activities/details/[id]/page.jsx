@@ -16,9 +16,9 @@ export default function details() {
     async function fetchData() {
       const data = await getActivity(id);
       setActivity(data);
+      setLoading(false);
     }
     fetchData();
-    setLoading(false);
   }, [id]);
   return (
     <>
