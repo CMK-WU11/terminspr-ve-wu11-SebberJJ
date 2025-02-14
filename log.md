@@ -52,3 +52,4 @@ Morgen - (tidspunkt)
 Eftermiddag -
 Kalender funktionalitet commit: 11:54 (Calender done - functionality moved from CalendarCard to page.jsx - easier to read)
 kalender funktionalitet commit: 14:42 (Calender overview now works and only instructor can access it)
+Search funktionalitet commit: 15:23 (Last part of search is done)
