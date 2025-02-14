@@ -20,7 +20,7 @@ export async function getInstuctorActivities(instructorId) {
         
         const filteredData = data.filter((item) => item.instructorId === instructorId);
 
-        console.log(filteredData);
+        console.log("instructor data:", filteredData);
         return filteredData;
     } catch (error) {
         console.error("Error fetching landrup instructor aktiviteter", error);
