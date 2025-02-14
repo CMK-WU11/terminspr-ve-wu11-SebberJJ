@@ -40,9 +40,14 @@ export default function details() {
                 <p className="text-white">Billede indlæses...</p>
               )}
 
-              <div className="absolute bottom-6 right-8">
-                <SubscribeBtn minAge={activity.minAge} maxAge={activity.maxAge} instructorId={activity.instructorId} />
-              </div>
+              <SubscribeBtn
+                activityId={activity.id}
+                minAge={activity.minAge}
+                maxAge={activity.maxAge}
+                instructorId={activity.instructorId}
+                href={`/calender/overview/${activity.id}`}
+              />
+
             </div>
             <article className="flex flex-col p-6 text-white gap-3">
               <div>
