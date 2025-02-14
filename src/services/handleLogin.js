@@ -14,6 +14,12 @@ export default async function handleLogin(username, password) {
         })
 
         const data = await response.json();
+
+        if (cookieStore.get("role")?.value !== "" && cookieStore.get("token")?.value !== "" && cookieStore.get("userId")?.value !== "") {
+            cookieStore.delete("token");
+            cookieStore.delete("userId");
+            cookieStore.delete("role");
+        }
         
         cookieStore.set("token", data.token);
         cookieStore.set("userId", data.userId);
